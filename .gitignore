@@ -1,0 +1,9 @@
+# Fichier de configuration sensible (credentials DB)
+config.php
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
